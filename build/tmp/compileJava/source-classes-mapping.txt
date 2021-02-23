@@ -1,0 +1,4 @@
+com/assertj/Hobby.java
+ com.assertj.Hobby
+com/assertj/Person.java
+ com.assertj.Person
